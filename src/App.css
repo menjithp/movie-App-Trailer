@@ -151,6 +151,10 @@ h1 {
     border: none;
     cursor: pointer;
 }
+.submit-search svg{
+    height:15px;
+    width:15px;
+}
 .youtube.amru{
     width:100%;
 }
